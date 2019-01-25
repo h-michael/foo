@@ -1,2 +1,4 @@
 foo
 Foo
+hoge
+Hoge
